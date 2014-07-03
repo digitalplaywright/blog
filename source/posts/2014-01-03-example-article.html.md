@@ -1,5 +1,5 @@
 ---
-title: Example Article 3
+title: This is a Blog Post
 date: 2014-01-03
 tags: example, odd
 image_src: //placehold.it/900x200
