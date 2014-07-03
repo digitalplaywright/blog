@@ -1,5 +1,5 @@
 ---
-title: Example Article 2
+title: Another Blurgh Post
 date: 2014-01-02
 tags: example, even
 ---
