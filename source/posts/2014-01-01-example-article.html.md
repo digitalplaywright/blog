@@ -1,5 +1,5 @@
 ---
-title: Example Article 1
+title: The First Post in the Blaarggh
 date: 2014-01-01
 tags: example, odd
 ---
