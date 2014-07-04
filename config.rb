@@ -106,7 +106,7 @@ activate :livereload
 set :site_url, 'http://machinist-cow.bitballoon.com'
 set :site_author, 'Mathias Biilmann'
 set :site_title, 'The Big Autodeploy Test'
-set :site_description, 'Blog description'
+set :site_description, 'Testing continous deployment of Middleman with BitBalloon'
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
 # set :theme_name, 'flatly'
