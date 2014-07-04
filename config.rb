@@ -105,7 +105,7 @@ activate :livereload
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
 set :site_url, 'http://machinist-cow.bitballoon.com'
 set :site_author, 'Mathias Biilmann'
-set :site_title, 'Blog title'
+set :site_title, 'The Big Autodeploy Test'
 set :site_description, 'Blog description'
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
