@@ -1,4 +1,4 @@
-| <!doctype html> 
+| <!doctype html>
 html
   head
     meta[charset="utf-8"]
@@ -26,7 +26,7 @@ html
             hr
             p
               span.glyphicon.glyphicon-time
-              |  Posted on 
+              |  Posted on
               = current_article.date.strftime('%b %e')
             hr
             - if current_article.data.image_src
@@ -35,7 +35,7 @@ html
           = yield
           aside
             h3
-              | Recent Articles
+              | Recent Posts
             ol
               - blog.articles[0...10].each do |article|
                 li
@@ -44,6 +44,6 @@ html
                     = article.date.strftime('%b %e')
           hr
             p.text-center
-              | 2014 
-              = link_to "#{site_title}", "/"          
+              | 2014
+              = link_to "#{site_title}", "/"
     = javascript_include_tag  "all"
